@@ -1,3 +1,9 @@
+######################################
+######## Push to Production! #########
+####### Dan Duran - GetCyber #########
+## Subscribe: Youtube.com/@GetCyber ##
+######################################
+
 #!/bin/bash
 
 # Variables (change items in [])
